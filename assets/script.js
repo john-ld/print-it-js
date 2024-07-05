@@ -17,7 +17,7 @@ const slides = [
 		tagLine: "Autocollants avec découpe laser sur mesure"
 	}
 ];
-
+console.log("coucou")
 console.log(slides);
 // Affiche le tableau initial des diapositives
 
